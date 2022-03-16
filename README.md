@@ -1,0 +1,1 @@
+# Checking-if-an-array-contains-the-given-value
